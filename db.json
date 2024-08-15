@@ -1,0 +1,82 @@
+{
+    "followers": [
+        {
+            "platform": "Facebook",
+            "username": "@nathanf",
+            "metric": "Followers",
+            "value": 1987,
+            "change": "+12 Today"
+        },
+        {
+            "platform": "Twitter",
+            "username": "@nathanf",
+            "metric": "Followers",
+            "value": 1044,
+            "change": "+99 Today"
+        },
+        {
+            "platform": "Instagram",
+            "username": "@realnathanf",
+            "metric": "Followers",
+            "value": 11000,
+            "change": "+1099 Today"
+        },
+        {
+            "platform": "YouTube",
+            "username": "Nathan F.",
+            "metric": "Subscribers",
+            "value": 8239,
+            "change": "-144 Today"
+        }
+    ],
+    "engagement": [
+        {
+            "platform": "Facebook",
+            "metric": "Page Views",
+            "value": 87,
+            "change": "+3%"
+        },
+        {
+            "platform": "Facebook",
+            "metric": "Likes",
+            "value": 52,
+            "change": "-2%"
+        },
+        {
+            "platform": "Instagram",
+            "metric": "Likes",
+            "value": 5462,
+            "change": "+2257%"
+        },
+        {
+            "platform": "Instagram",
+            "metric": "Profile Views",
+            "value": 52000,
+            "change": "+1375%"
+        },
+        {
+            "platform": "Twitter",
+            "metric": "Retweets",
+            "value": 117,
+            "change": "+303%"
+        },
+        {
+            "platform": "Twitter",
+            "metric": "Likes",
+            "value": 507,
+            "change": "+553%"
+        },
+        {
+            "platform": "YouTube",
+            "metric": "Likes",
+            "value": 107,
+            "change": "-19%"
+        },
+        {
+            "platform": "YouTube",
+            "metric": "Total Views",
+            "value": 1407,
+            "change": "-12%"
+        }
+    ]
+}
